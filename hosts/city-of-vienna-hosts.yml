@@ -1,0 +1,116 @@
+generated: '2026-10-23'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 10
+  own: 10
+  other_domain: 0
+  platform: 0
+  roles:
+  - api
+  - other
+  - website
+hosts:
+- host: 48ertandler.wien.gv.at
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: other
+  relation: own
+- host: api.gv.at
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: api
+  relation: own
+- host: digitales.wien.gv.at
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: other
+  relation: own
+- host: id-austria.gv.at
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: other
+  relation: own
+- host: jobs.wien.gv.at
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: other
+  relation: own
+- host: mein.wien.gv.at
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: other
+  relation: own
+- host: secure.oesterreich.gv.at
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: other
+  relation: own
+- host: start.wien.gv.at
+  found_by:
+  - probed
+  - site-links
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: other
+  relation: own
+- host: www.oesterreich.gv.at
+  found_by:
+  - probed
+  - site-links
+  types: []
+  serves: []
+  registrable_domain: gv.at
+  role: other
+  relation: own
+- host: www.wien.gv.at
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  types:
+  - Website
+  serves: []
+  registrable_domain: gv.at
+  role: website
+  relation: own

@@ -1,0 +1,16 @@
+generated: '2026-10-23'
+method: none
+source:
+- https://zapier.com/apps/city-of-vienna/integrations
+- https://n8n.io/integrations/city-of-vienna/
+- https://composio.dev/toolkits/city-of-vienna
+- https://monid.ai/tools/city-of-vienna
+checked:
+- https://composio.dev/toolkits/city-of-vienna
+- https://monid.ai/tools/city-of-vienna
+- https://n8n.io/integrations/city-of-vienna/
+- https://zapier.com/apps/city-of-vienna/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []

@@ -1,0 +1,6 @@
+Contact: mailto:cybersicherheit@bka.gv.at
+Expires: 2027-09-05T07:00:00.000Z
+Encryption: https://bka.gv.at/.well-known/keys/Cybersicherheit_bka_gv_at_public_key.cer
+Preferred-Languages: de, en
+Policy: https://www.bundeskanzleramt.gv.at/themen/cybersicherheit/ansprechstellen.html
+Hiring: https://bund.jobboerse.gv.at/sap/bc/jobs/ 
